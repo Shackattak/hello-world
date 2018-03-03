@@ -1,3 +1,3 @@
 # hello-world
-An test repository
+A test repository
 I'm having a go at learning Git and GitHub
